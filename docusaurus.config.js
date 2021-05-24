@@ -3,7 +3,7 @@ module.exports = {
   title: 'OpCon',
   tagline: 'OpCon',
   url: 'http://sma-open-docs.azurewebsites.net',
-  baseUrl: '/opcon/core/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -51,12 +51,6 @@ module.exports = {
           // Please change this to your repo.
           editUrl:
             'https://github.com/opcon-docs/opcon-docs/blob/main',
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
