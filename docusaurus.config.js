@@ -3,7 +3,7 @@ module.exports = {
   title: 'OpCon',
   tagline: 'OpCon',
   url: 'http://sma-open-docs.azurewebsites.net',
-  baseUrl: '/',
+  baseUrl: '/opcon/core/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
