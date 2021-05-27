@@ -46,7 +46,7 @@ successfully:
 |                                  |                                  |
 |                                  | For EM, consult [Viewing Job     | |                                  | Output](../UI/Enterprise-Ma    |
 |                                  | nager/Performing-Job-Procedu |
-|                                  | res(Matrix).md#Viewing){.MCXref |
+|                                  | res-Matrix.md#Viewing){.MCXref |
 |                                  | .xref} in the **Enterprise       |
 |                                  | Manager** online help.           |
 +----------------------------------+----------------------------------+

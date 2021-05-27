@@ -69,9 +69,9 @@ The **Pie Chart** view also has the following right-click menu options:
 ![White \"person reading\" icon on blue circular background](../../../Resources/Images/moreinfo-icon(48x48).png "More Info icon")Related
 Topics
 
--   [Creating and Saving Custom     Diagrams](Creating-Custom-Diagrams(Pie).md)
--   [Viewing Job Lists for     Schedules](Viewing-Job-Lists-for-Schedules(Pie).md)
--   [Viewing Jobs in     SubSchedules](Viewing-Job-Lists-for-Schedules(Pie).md#View_Jobs_in_a_SubSchedule)
+-   [Creating and Saving Custom     Diagrams](Creating-Custom-Diagrams-Pie.md)
+-   [Viewing Job Lists for     Schedules](Viewing-Job-Lists-for-Schedules-Pie.md)
+-   [Viewing Jobs in     SubSchedules](Viewing-Job-Lists-for-Schedules-Pie.md#View_Jobs_in_a_SubSchedule)
 -   [Setting Preferences for Status     Colors](Preferences-for-Status-Colors.md)
 :::
 

@@ -10,7 +10,7 @@ The **Event** tab provides the following fields for defining an
 OpCon/xps event launched for the selected trigger:
 
 -   **Event Command**: Defines the Event Command definition. For
-    additional information, refer to the [OpCon     Events](../../OpCon-Events/Overview.md) online help.
+    additional information, refer to the [OpCon     Events](../../OpCon-Events/Introduction.md) online help.
 -   **Parameters**: Defines the event parameters associated with the
     Event Command.
 -   **Test**: Sends a test for the activated notification of the

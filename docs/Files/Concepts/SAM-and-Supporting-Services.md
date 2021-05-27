@@ -8,7 +8,7 @@ viewport: width=device-width, initial-scale=1.0
 
 The SAM and supporting services (SAM-SS) are the components that manage
 all automation processing. For additional information, refer to the
-[Server Programs](../Server-Programs/Overview.md) online help.
+[Server Programs](../Server-Programs/Introduction.md) online help.
 
 ## Schedule Activity Monitor (SAM)
 

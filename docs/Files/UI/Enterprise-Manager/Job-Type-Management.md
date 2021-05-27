@@ -893,7 +893,7 @@ To define job details:
 4.  Enter the *file path and name of the file to detect* in the **File
     Name** text box. UNIX wildcard characters are supported in the file
     name (e.g., /usr/local/abc\*.txt).
-5.  *(Optional)* Select the **Sub-directory Search**e
+5.  *(Optional)* Select the **Sub-directory Search**
     checkbox to search sub-directories under the file path specified.
 6.  Specify the time frame (*Start Time* and *End Time*) within which
     the file must arrive in the directory.

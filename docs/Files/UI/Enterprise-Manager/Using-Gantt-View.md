@@ -72,7 +72,7 @@ Related Topics
 
 -   [Using Plan Mode](Using-Plan-Mode.md)
 -   [Synchronizing Data between List and Gantt     Views](Synchronizing-Data-between-List-and-Gantt-Views.md)
--   [Performing Job     Procedures](Performing-Job-Procedures(Gantt).md)
+-   [Performing Job     Procedures](Performing-Job-Procedures-Gantt.md)
 :::
 
  

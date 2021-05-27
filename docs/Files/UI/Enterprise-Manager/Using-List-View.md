@@ -41,8 +41,8 @@ Related Topics
 -   [Using Filter Text](Using-Filter-Text.md)
 -   [Creating/Updating Job     Filters](Creating_Updating-Job-Filters.md)
 -   [Synchronizing Data between Matrix and List     Views](Synchronizing-Data-between-Matrix-and-List-Views.md)
--   [Performing Schedule     Procedures](Performing-Schedule-Procedures(List).md)
--   [Performing Job Procedures](Performing-Job-Procedures(List).md)
+-   [Performing Schedule     Procedures](Performing-Schedule-Procedures-List.md)
+-   [Performing Job Procedures](Performing-Job-Procedures-List.md)
 :::
 
  

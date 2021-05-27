@@ -512,7 +512,7 @@ elements can be defined for the new schedule.
 
 -   **Requirements**: Optional for \<skdinfo\>.
 -   **Valid Values**: For a complete list of valid events, refer to the
-    [OpCon Events](../../OpCon-Events/Overview.md) online help.
+    [OpCon Events](../../OpCon-Events/Introduction.md) online help.
 
 #### \<skd_bld4machgrp\>\</skd_bld4machgrp\>
 

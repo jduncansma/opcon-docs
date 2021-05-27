@@ -50,7 +50,7 @@ Clicking or right-clicking on one of the bars or tubes displayed in the
 -   **Jobs list**: This will open the **Jobs list** dialog and display
     the jobs that match the selection of the bar or tube. The **Jobs
     list** dialog provides option buttons to **Edit Master** and **Edit
-    Daily**. For more information, refer to [Editing Master     Jobs](Performing-Job-Procedures(List).md#Editing) or
+    Daily**. For more information, refer to [Editing Master     Jobs](Performing-Job-Procedures-List.md#Editing) or
     [Monitoring SAP R/3 and CRM Background Process     Resources](Monitoring-SAP-R3-and-CRM-Background-Process-Resources.md).
 -   **Refresh Chart**: This will refresh the displayed items in the
     **Bar Chart** view.
@@ -66,10 +66,10 @@ Clicking or right-clicking on one of the bars or tubes displayed in the
 ![White \"person reading\" icon on blue circular background](../../../Resources/Images/moreinfo-icon(48x48).png "More Info icon")Related
 Topics
 
--   [Creating and Saving Custom     Diagrams](Creating-Custom-Diagrams(Bar).md)
+-   [Creating and Saving Custom     Diagrams](Creating-Custom-Diagrams-Bar.md)
 -   [Synchronizing Data between List and Bar Chart     Views](Synchronizing-Data-between-List-and-Bar-Chart-Views.md)
--   [Creating/Updating Job     Filters](Creating_Updating-Job-Filters(Bar).md)
--   [Viewing Job Lists for     Schedules](Viewing-Job-Lists-for-Schedules(Bar).md)
+-   [Creating/Updating Job     Filters](Creating_Updating-Job-Filters-Bar.md)
+-   [Viewing Job Lists for     Schedules](Viewing-Job-Lists-for-Schedules-Bar.md)
 :::
 
  

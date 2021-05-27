@@ -9,7 +9,7 @@ The **Breaking Changes** section provides information on changes
 requiring action or new behaviors when installing or upgrading all of
 the OpCon components except the LSAMs (also
 referred to as Agents). For installation information on a specific LSAM,
-refer to the corresponding LSAM online help. See the [What\'s New in Installation](What's-New-in-Installation.md)
+refer to the corresponding LSAM online help. See the [What\'s New in Installation](Whats-New-in-Installation.md)
 section for additional updates in the installation process.
 
 

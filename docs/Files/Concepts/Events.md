@@ -9,7 +9,7 @@ The **Events** associated with a job are
 OpCon events the SAM processes based on
 different triggers including job status, a string match on LSAM
 feedback, an Exit Description evaluation, and Evaluation Expression.
-Refer to the [OpCon Events](../OpCon-Events/Overview.md) online help.
+Refer to the [OpCon Events](../OpCon-Events/Introduction.md) online help.
 Because the events are attached to a job, all [System Properties](Properties.md#System) can be referenced with
 tokens in the events. After events are defined for a job,
 OpCon stores the defined events in the

@@ -335,7 +335,7 @@ definitions below:
     -   Valid Values: N, Y
 -   **Event**: Defines the OpCon event to
     send to the SAM-SS when the message meets the search criteria.
-    -   Valid Values: Refer to the [OpCon         Events](../OpCon-Events/Overview.md) online help. The event
+    -   Valid Values: Refer to the [OpCon         Events](../OpCon-Events/Introduction.md) online help. The event
         string must not exceed 738 characters.
 
 ## Spool Files

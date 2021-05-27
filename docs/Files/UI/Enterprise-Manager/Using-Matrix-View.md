@@ -97,11 +97,11 @@ the same as those in the **List** view. For more information, refer to
 Related Topics
 
 -   [Synchronizing Data between the List and Matrix     Views](Synchronizing-Data-between-List-and-Matrix-Views.md)
--   [Creating/Updating Job     Filters](Creating_Updating-Job-Filters(Matrix).md)
+-   [Creating/Updating Job     Filters](Creating_Updating-Job-Filters-Matrix.md)
 -   [Changing Focus of Days in     Calendars](Changing-Focus-of-Days-in-Calendars.md)
 -   [Viewing Schedule and/or Job     information](Viewing-Schedule-or-Job-Info.md)
--   [Performing Schedule     Procedures](Performing-Schedule-Procedures(Matrix).md)
--   [Performing Job     Procedures](Performing-Job-Procedures(Matrix).md)
+-   [Performing Schedule     Procedures](Performing-Schedule-Procedures-Matrix.md)
+-   [Performing Job     Procedures](Performing-Job-Procedures-Matrix.md)
 :::
 
  

@@ -365,7 +365,7 @@ with this procedure to archive the audit history of a single job.
 
 1.  Use menu path: **View \> Audit Trail**.
 2.  Set the *desired limits* for the **Cut-off Date** or **Days to
-    Keep**. For more information, refer to Legacy Audit     Management.
+    Keep**. For more information, refer to Legacy Audit  Management.
 3.  Click the **Archive Records** button on the toolbar and click
     **OK**.
 

@@ -52,7 +52,7 @@ Click the **Next** button to advance to the **Event Definition** screen
 of the wizard.
 
 Select an [OpCon]{.GeneralOpConGlobalName style="font-weight: bold;"} **event template** from the **Event Template** drop-down list. For more
-information, refer to the [OpCon Events](../../OpCon-Events/Overview.md) online help.
+information, refer to the [OpCon Events](../../OpCon-Events/Introduction.md) online help.
 
   --------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------
   ![White pencil icon on green circular background](../../../Resources/Images/example-icon(48x48).png "Example icon")   **EXAMPLE:** [\$JOB:ADD,\<schedule date\>,\<schedule name\>,\<job name\>,\<frequency name\>]{.statement2}
@@ -151,7 +151,7 @@ Click the **Next** button to advance to the **Event Definition** screen
 of the wizard.
 
 Select an [OpCon]{.GeneralOpConGlobalName style="font-weight: bold;"} **event template** from the **Event Template** drop-down list. For more
-information, refer to the [OpCon Events](../../OpCon-Events/Overview.md) online help.
+information, refer to the [OpCon Events](../../OpCon-Events/Introduction.md) online help.
 
   --------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------
   ![White pencil icon on green circular background](../../../Resources/Images/example-icon(48x48).png "Example icon")   **EXAMPLE:** [\$JOB:ADD,\<schedule date\>,\<schedule name\>,\<job name\>,\<frequency name\>]{.statement2}

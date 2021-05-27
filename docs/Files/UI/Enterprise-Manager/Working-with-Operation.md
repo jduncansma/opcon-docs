@@ -82,20 +82,20 @@ will show the following menu items:
 -   **Maintenance**: Hovering over this menu item will show the
     following menu items:
     -   **Edit Daily Schedule**:
-        -   Daily List: Refer to [Editing Daily             Schedules](Performing-Schedule-Procedures(List).md#Editing).
-        -   Matrix: Refer to [Editing Daily             Schedules](Performing-Schedule-Procedures(Matrix).md#Editing).
+        -   Daily List: Refer to [Editing Daily             Schedules](Performing-Schedule-Procedures-List.md#Editing).
+        -   Matrix: Refer to [Editing Daily             Schedules](Performing-Schedule-Procedures-Matrix.md#Editing).
     -   **Edit Master Schedule**:
-        -   Daily List: Refer to [Editing Master             Schedules](Performing-Schedule-Procedures(List).md#Editing2).
-        -   Matrix: Refer to [Editing Master             Schedules](Performing-Schedule-Procedures(Matrix).md#Editing2).
+        -   Daily List: Refer to [Editing Master             Schedules](Performing-Schedule-Procedures-List.md#Editing2).
+        -   Matrix: Refer to [Editing Master             Schedules](Performing-Schedule-Procedures-Matrix.md#Editing2).
     -   **Check Schedule**:
-        -   Daily List: Refer to [Checking             Schedules](Performing-Schedule-Procedures(List).md#Checking).
-        -   Matrix: Refer to [Checking             Schedules](Performing-Schedule-Procedures(Matrix).md#Checking).
+        -   Daily List: Refer to [Checking             Schedules](Performing-Schedule-Procedures-List.md#Checking).
+        -   Matrix: Refer to [Checking             Schedules](Performing-Schedule-Procedures-Matrix.md#Checking).
     -   **Delete Schedule**:
-        -   Daily List: Refer to [Deleting             Schedules](Performing-Schedule-Procedures(List).md#Deleting).
-        -   Matrix: Refer to [Deleting             Schedules](Performing-Schedule-Procedures(Matrix).md#Deleting).
+        -   Daily List: Refer to [Deleting             Schedules](Performing-Schedule-Procedures-List.md#Deleting).
+        -   Matrix: Refer to [Deleting             Schedules](Performing-Schedule-Procedures-Matrix.md#Deleting).
     -   **Add Jobs**:
-        -   Daily List: Refer to [Adding             Jobs](Performing-Schedule-Procedures(List).md#Adding).
-        -   Matrix: Refer to [Adding             Jobs](Performing-Schedule-Procedures(Matrix).md#Adding).
+        -   Daily List: Refer to [Adding             Jobs](Performing-Schedule-Procedures-List.md#Adding).
+        -   Matrix: Refer to [Adding             Jobs](Performing-Schedule-Procedures-Matrix.md#Adding).
 -   **Schedule Status choices**: All schedule status change command
     dialogs display the schedule date and schedule name. Refer to
     [Schedule Status Change     Commands](../../Concepts/Schedule-and-Job-Status-Change-Commands.md#Schedule){.MCXref
@@ -118,34 +118,34 @@ Right-clicking on a job in the **Daily List**, **Matrix**, **PERT**, or
 -   **Comment**: Provides a dialog to enter a quick comment about a
     completed job to the history record for the most recent instance of
     the job.
-    -   Daily List: Refer to [Adding Job Completion         Comments](Performing-Job-Procedures(List).md#Adding).
-    -   Matrix: Refer to [Adding Job Completion         Comments](Performing-Job-Procedures(Matrix).md#Adding).
-    -   Gantt or PERT: Refer to [Adding Job Completion         Comments](Performing-Job-Procedures(Gantt).md#Adding).
+    -   Daily List: Refer to [Adding Job Completion         Comments](Performing-Job-Procedures-List.md#Adding).
+    -   Matrix: Refer to [Adding Job Completion         Comments](Performing-Job-Procedures-Matrix.md#Adding).
+    -   Gantt or PERT: Refer to [Adding Job Completion         Comments](Performing-Job-Procedures-Gantt.md#Adding).
 -   **View Job Output**:
-    -   Daily List: Refer to [Viewing Job         Output](Performing-Job-Procedures(List).md#Viewing).
-    -   Matrix: Refer to [Viewing Job         Output](Performing-Job-Procedures(Matrix).md#Viewing).
-    -   Gantt or PERT: Refer to [Viewing Job         Output](Performing-Job-Procedures(Gantt).md#Viewing).
+    -   Daily List: Refer to [Viewing Job         Output](Performing-Job-Procedures-List.md#Viewing).
+    -   Matrix: Refer to [Viewing Job         Output](Performing-Job-Procedures-Matrix.md#Viewing).
+    -   Gantt or PERT: Refer to [Viewing Job         Output](Performing-Job-Procedures-Gantt.md#Viewing).
 -   **Window To Host**: This menu provides a dialog to open the emulator
     of choice to log in to the machine for the selected job. For
     information on configuring an emulator, refer to [Setting     Preferences for Window To
     Host](Preferences-for-Windows-To-Host.md) .
-    -   Daily List: Refer to [Opening Window to         Host](Performing-Job-Procedures(List).md#Opening).
-    -   Matrix: Refer to [Opening Window to         Host](Performing-Job-Procedures(Matrix).md#Opening).
-    -   Gantt or PERT: Refer to [Opening Window to         Host](Performing-Job-Procedures(Gantt).md#Opening).
+    -   Daily List: Refer to [Opening Window to         Host](Performing-Job-Procedures-List.md#Opening).
+    -   Matrix: Refer to [Opening Window to         Host](Performing-Job-Procedures-Matrix.md#Opening).
+    -   Gantt or PERT: Refer to [Opening Window to         Host](Performing-Job-Procedures-Gantt.md#Opening).
 -   **Maintenance**: Hovering over this menu item will show the
     following menu items:
     -   **Edit Daily Job**:
-        -   Daily List: Refer to [Editing Daily             Jobs](Performing-Job-Procedures(List).md#Editing2).
-        -   Matrix: Refer to [Editing Daily             Jobs](Performing-Job-Procedures(Matrix).md#Editing2).
-        -   Gantt or PERT: Refer to [Editing Daily             Jobs](Performing-Job-Procedures(Gantt).md#Editing2).
+        -   Daily List: Refer to [Editing Daily             Jobs](Performing-Job-Procedures-List.md#Editing2).
+        -   Matrix: Refer to [Editing Daily             Jobs](Performing-Job-Procedures-Matrix.md#Editing2).
+        -   Gantt or PERT: Refer to [Editing Daily             Jobs](Performing-Job-Procedures-Gantt.md#Editing2).
     -   **Edit Master Job**:
-        -   Daily List: Refer to [Editing Master             Jobs](Performing-Job-Procedures(List).md#Editing).
-        -   Matrix: Refer to [Editing Master             Jobs](Performing-Job-Procedures(Matrix).md#Editing).
-        -   Gantt or PERT: Refer to [Editing Master             Jobs](Performing-Job-Procedures(Gantt).md#Editing).
+        -   Daily List: Refer to [Editing Master             Jobs](Performing-Job-Procedures-List.md#Editing).
+        -   Matrix: Refer to [Editing Master             Jobs](Performing-Job-Procedures-Matrix.md#Editing).
+        -   Gantt or PERT: Refer to [Editing Master             Jobs](Performing-Job-Procedures-Gantt.md#Editing).
     -   **Delete Job**:
-        -   Daily List: Refer to [Deleting             Jobs](Performing-Job-Procedures(List).md#Deleting).
-        -   Matrix: Refer to [Deleting             Jobs](Performing-Job-Procedures(Matrix).md#Deleting).
-        -   Gantt or PERT: Refer to [Deleting             Jobs](Performing-Job-Procedures(Gantt).md#Deleting).
+        -   Daily List: Refer to [Deleting             Jobs](Performing-Job-Procedures-List.md#Deleting).
+        -   Matrix: Refer to [Deleting             Jobs](Performing-Job-Procedures-Matrix.md#Deleting).
+        -   Gantt or PERT: Refer to [Deleting             Jobs](Performing-Job-Procedures-Gantt.md#Deleting).
 -   **Job Status choices**: All job status change command dialogs
     display the schedule date, schedule name, and job name. Refer to
     [Jobs Status Change     Commands](../../Concepts/Schedule-and-Job-Status-Change-Commands.md#Jobs){.MCXref
@@ -155,24 +155,24 @@ Right-clicking on a job in the **Daily List**, **Matrix**, **PERT**, or
     dialog can remain open while you continue to work inside the primary
     EM screen. Refer to [SAP Child     Processes](../../Concepts/SAP-Job-Menu-Options.md#SAP){.MCXref
     .xref} in the **Concepts** online help.
-    -   Daily List: Refer to [Monitoring SAP Child         Processes](Performing-Job-Procedures(List).md#Monitori) and
-        [Restarting SAP Child         Processes](Performing-Job-Procedures(List).md#Restarti){.MCXref
+    -   Daily List: Refer to [Monitoring SAP Child         Processes](Performing-Job-Procedures-List.md#Monitori) and
+        [Restarting SAP Child         Processes](Performing-Job-Procedures-List.md#Restarti){.MCXref
         .xref}.
-    -   Matrix: Refer to [Monitoring SAP Child         Processes](Performing-Job-Procedures(Matrix).md#Monitori)
-        and [Restarting SAP Child         Processes](Performing-Job-Procedures(Matrix).md#Restarti){.MCXref
+    -   Matrix: Refer to [Monitoring SAP Child         Processes](Performing-Job-Procedures-Matrix.md#Monitori)
+        and [Restarting SAP Child         Processes](Performing-Job-Procedures-Matrix.md#Restarti){.MCXref
         .xref}.
-    -   Gantt or PERT: Refer to [Monitoring SAP Child         Processes](Performing-Job-Procedures(Gantt).md#Monitori)
-        and [Restarting SAP Child         Processes](Performing-Job-Procedures(Gantt).md#Restarti){.MCXref
+    -   Gantt or PERT: Refer to [Monitoring SAP Child         Processes](Performing-Job-Procedures-Gantt.md#Monitori)
+        and [Restarting SAP Child         Processes](Performing-Job-Procedures-Gantt.md#Restarti){.MCXref
         .xref}.
 -   **SAP Job Spools**: For SAP R/3 and CRM jobs, this option provides a
     dialog that retrieves individual spool files generated by a job.
     Refer to [SAP Job     Spools](../../Concepts/SAP-Job-Menu-Options.md#SAP2){.MCXref
     .xref} in the **Concepts** online help.
-    -   Daily List: Refer to [Viewing SAP Job         Spools](Performing-Job-Procedures(List).md#Viewing2){.MCXref
+    -   Daily List: Refer to [Viewing SAP Job         Spools](Performing-Job-Procedures-List.md#Viewing2){.MCXref
         .xref}.
-    -   Matrix: Refer to [Viewing SAP Job         Spools](Performing-Job-Procedures(Matrix).md#Viewing2){.MCXref
+    -   Matrix: Refer to [Viewing SAP Job         Spools](Performing-Job-Procedures-Matrix.md#Viewing2){.MCXref
         .xref}.
-    -   Gantt or PERT: Refer to [Viewing SAP Job         Spools](Performing-Job-Procedures(Gantt).md#Viewing2){.MCXref
+    -   Gantt or PERT: Refer to [Viewing SAP Job         Spools](Performing-Job-Procedures-Gantt.md#Viewing2){.MCXref
         .xref}.
 :::
 

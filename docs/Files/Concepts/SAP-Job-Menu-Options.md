@@ -70,27 +70,27 @@ individual spool files for an SAP job.
 |                                  | -   [Monitoring SAP Child        | |                                  |     Processes                    |
 |                                  |     (Gantt)](../UI/Enterpr       |
 |                                  | ise-Manager/Performing-Job%2 |
-|                                  | 0Procedures(Gantt).md#Monitori) |
+|                                  | 0Procedures-Gantt.md#Monitori) |
 |                                  | -   [Monitoring SAP Child        | |                                  |     Processes                    |
 |                                  |     (List)](../UI/Enterp         |
 |                                  | rise-Manager/Performing-Job% |
-|                                  | 20Procedures(List).md#Monitori) |
+|                                  | 20Procedures-List.md#Monitori) |
 |                                  | -   [Monitoring SAP Child        | |                                  |     Processes                    |
 |                                  |     (Matrix)](../UI/Enterpri     |
 |                                  | se-Manager/Performing-Job- |
-|                                  | Procedures(Matrix).md#Monitori) |
+|                                  | Procedures-Matrix.md#Monitori) |
 |                                  | -   [Restarting SAP Child        | |                                  |     Processes                    |
 |                                  |     (Gantt)](../UI/Enterpr       |
 |                                  | ise-Manager/Performing-Job%2 |
-|                                  | 0Procedures(Gantt).md#Restarti) |
+|                                  | 0Procedures-Gantt.md#Restarti) |
 |                                  | -   [Restarting SAP Child        | |                                  |     Processes                    |
 |                                  |     (List)](../UI/Enterp         |
 |                                  | rise-Manager/Performing-Job% |
-|                                  | 20Procedures(List).md#Restarti) |
+|                                  | 20Procedures-List.md#Restarti) |
 |                                  | -   [Restarting SAP Child        | |                                  |     Processes                    |
 |                                  |     (Matrix)](../UI/Enterpri     |
 |                                  | se-Manager/Performing-Job- |
-|                                  | Procedures(Matrix).md#Restarti) |
+|                                  | Procedures-Matrix.md#Restarti) |
 |                                  |                                  |
 |                                  | Provided here are references for |
 |                                  | viewing SAP Job Spools.          |
@@ -103,13 +103,13 @@ individual spool files for an SAP job.
 |                                  |                                  |
 |                                  | -   [Viewing SAP Job Spools      | |                                  |     (Gantt)](../UI/Enterpr       |
 |                                  | ise-Manager/Performing-Job%2 |
-|                                  | 0Procedures(Gantt).md#Viewing2) |
+|                                  | 0Procedures-Gantt.md#Viewing2) |
 |                                  | -   [Viewing SAP Job Spools      | |                                  |     (List)](../UI/Enterp         |
 |                                  | rise-Manager/Performing-Job% |
-|                                  | 20Procedures(List).md#Viewing2) |
+|                                  | 20Procedures-List.md#Viewing2) |
 |                                  | -   [Viewing SAP Job Spools      | |                                  |     (Matrix)](../UI/Enterpri     |
 |                                  | se-Manager/Performing-Job- |
-|                                  | Procedures(Matrix).md#Viewing2) |
+|                                  | Procedures-Matrix.md#Viewing2) |
 +----------------------------------+----------------------------------+
 :::
 

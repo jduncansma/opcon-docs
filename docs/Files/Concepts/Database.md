@@ -9,7 +9,7 @@ viewport: width=device-width, initial-scale=1.0
 The OpCon database is installed on Microsoft
 SQL Server on a Windows Server. This database contains all of the data
 defining the automation requirements, operational processing, and
-historical information. For additional information, refer to **[Database Information](../Database-Information/Overview.md)** online help.
+historical information. For additional information, refer to **Database Information** online help.
 
 ## Auditing
 

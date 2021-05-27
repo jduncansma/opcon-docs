@@ -27,7 +27,7 @@ Click on the active **command** to perform for the job.
 If additional information is needed:
 
 a.  Go to the preferred **Job procedure** under the [Performing Job     Procedures when Working in the Gantt
-    View](Performing-Job-Procedures(Gantt).md).
+    View](Performing-Job-Procedures-Gantt.md).
 b.  Start on Step 2 for each procedure.
 :::
 

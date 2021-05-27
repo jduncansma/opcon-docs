@@ -87,14 +87,14 @@ the following items:
 ![White \"person reading\" icon on blue circular background](../../../Resources/Images/moreinfo-icon(48x48).png "More Info icon")
 Related Topics
 
--   [Creating and Saving Custom     Diagrams](Creating-Custom-Diagrams(PERT).md)
+-   [Creating and Saving Custom     Diagrams](Creating-Custom-Diagrams-PERT.md)
 -   [Synchronizing Data between List and PERT     Views](Synchronizing-Data-between-List-and-PERT-Views.md)
--   [Creating/Updating Job     Filters](Creating_Updating-Job-Filters(PERT).md)
+-   [Creating/Updating Job     Filters](Creating_Updating-Job-Filters-PERT.md)
 -   [Opening Mini Maps](Opening-Mini-Maps.md)
 -   [Viewing Job Information](Viewing-Job-Info.md)
 -   [Viewing Job History     Information](Viewing-Job-History-Info.md)
 -   [Viewing Container Jobs\'     SubSchedules](Viewing-Container-Job-SubSchedules.md)
--   [Performing Additional Job     Procedures](Performing-Job-Procedures(PERT).md)
+-   [Performing Additional Job     Procedures](Performing-Job-Procedures-PERT.md)
 :::
 
  

@@ -94,8 +94,7 @@ Daily Job Definition in Solution Manager
 
 ### General Info
 
-For information about the **General Info** section, refer to [Viewing and Updating General
-Info](Viewing-and-Updating-General-Info.md).
+For information about the **General Info** section, refer to [Viewing and Updating General Info](Viewing-and-Updating-General-Info.md).
 
 
 

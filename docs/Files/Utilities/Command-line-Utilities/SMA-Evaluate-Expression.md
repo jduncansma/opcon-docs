@@ -310,7 +310,7 @@ information to the standard Job Output. [SMA Technologies]{.GeneralCompanyName} 
 LSAM to capture the job output so you can easily use the View Job Output
 feature from the Enterprise Manager. For more information, refer to [Job Output
 Retrieval](https://help.smatechnologies.com/opcon/agents/windows/latest/Files/Agents/Microsoft/Job-Output-Retrieval.md){.MCXref
-.xref} in the **Microsoft LSAM** online help and [Viewing Job Output](../../UI/Enterprise-Manager/Performing-Job-Procedures(List).md#Viewing){.MCXref
+.xref} in the **Microsoft LSAM** online help and [Viewing Job Output](../../UI/Enterprise-Manager/Performing-Job-Procedures-List.md#Viewing){.MCXref
 .xref} in the **Enterprise Manager** online help.
 
 ## Exit Codes

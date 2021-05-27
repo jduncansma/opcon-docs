@@ -393,7 +393,7 @@ The following information applies to defining Step Control:
         If the restart step name is blank, this action is a no-op.
 
     -   For a list of valid OpCon events,
-        refer to the [OpCon Events](../OpCon-Events/Overview.md)
+        refer to the [OpCon Events](../OpCon-Events/Introduction.md)
         online help.
 
 ## z/OS Pre-run Definitions

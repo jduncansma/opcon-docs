@@ -43,12 +43,12 @@ of which to be aware.
 |                                  | -   [Adding                      | |                                  |                                  |
 |                                  |    Jobs](../UI/Enterprise-Mana |
 |                                  | ger/Performing-Schedule-Proc |
-|                                  | edures(List).md#Adding){.MCXref |
+|                                  | edures-List.md#Adding){.MCXref |
 |                                  |     .xref} (Daily List view)     |
 |                                  | -   [Adding                      | |                                  |                                  |
 |                                  |  Jobs](../UI/Enterprise-Manage |
 |                                  | r/Performing-Schedule-Proced |
-|                                  | ures(Matrix).md#Adding){.MCXref |
+|                                  | ures-Matrix.md#Adding){.MCXref |
 |                                  |     .xref} (Matrix view)         |
 |                                  |                                  |
 |                                  | For                              |

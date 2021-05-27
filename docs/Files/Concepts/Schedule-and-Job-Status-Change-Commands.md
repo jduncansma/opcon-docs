@@ -118,7 +118,7 @@ are different.
 |                                  | -   [Performing Job Procedures   | |                                  |     when Working in Matrix       |
 |                                  |     View](../UI/Enterpr          |
 |                                  | ise-Manager/Performing-Job%2 |
-|                                  | 0Procedures(Matrix).md){.MCXref |
+|                                  | 0Procedures-Matrix.md){.MCXref |
 |                                  |     .xref}                       |
 +----------------------------------+----------------------------------+
 :::
