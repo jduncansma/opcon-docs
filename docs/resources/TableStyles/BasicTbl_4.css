@@ -1,0 +1,696 @@
+/* MadCap Table Style: */
+
+/*<meta Version="9" />*/
+
+mcTableStyle
+{
+	name: BasicTbl_4;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	border-spacing-x: 0;
+	border-spacing-y: 0;
+	border-collapse: collapse;
+	border-left-color: #000000;
+	border-right-color: #000000;
+	border-top-color: #000000;
+	border-bottom-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	cell-padding-top: 5.4pt;
+	cell-padding-right: 5.4pt;
+	cell-padding-bottom: 5.4pt;
+	max-id: 7;
+	orphans: 3;
+	cell-padding-left: 5.4pt;
+}
+
+mcTableColumnStyle
+{
+	separator-style: solid;
+	separator-width: 1px;
+	separator-color: #000000;
+	ruler-style: solid;
+	ruler-width: 1px;
+	ruler-color: #000000;
+	name: Column;
+	id: 0;
+	font-size: 11pt;
+	font-family: 'Century Gothic';
+}
+
+mcTableHeadStyle
+{
+	name: Header;
+	id: 3;
+	separator-style: solid;
+	separator-width: 1px;
+	background-color: #c0c0c0;
+	font-weight: bold;
+	text-align: left;
+	color: #ffffff;
+	separator-color: #000000;
+}
+
+mcTableBodyStyle
+{
+	span: 1;
+	separator-style: solid;
+	separator-width: 1px;
+	separator-color: #000000;
+	ruler-style: none;
+	ruler-width: 1px;
+	ruler-color: #000000;
+	name: Body;
+	id: 1;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	page-break-inside: avoid;
+	vertical-align: top;
+}
+
+
+/* Cell Styles: */
+ 
+.TableStyle-BasicTbl_4
+{
+	border-collapse: collapse;
+	border-left-style: solid;
+	border-left-color: #000000;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-color: #000000;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-color: #000000;
+	border-top-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #000000;
+	border-bottom-width: 1px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	orphans: 3;
+	border-spacing: 0px 0px;
+}
+
+.TableStyle-BasicTbl_4-Column-Column
+{
+	
+}
+
+.TableStyle-BasicTbl_4-Head-Header
+{
+	
+}
+
+.TableStyle-BasicTbl_4-HeadI-Column-Header
+{
+	padding-left: 5.4pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	color: #ffffff;
+	font-weight: bold;
+	text-align: left;
+	background-color: #c0c0c0;
+}
+
+.TableStyle-BasicTbl_4-HeadI-Column-Header p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+.TableStyle-BasicTbl_4-HeadE-Column-Header
+{
+	padding-left: 5.4pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	color: #ffffff;
+	font-weight: bold;
+	text-align: left;
+	background-color: #c0c0c0;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-BasicTbl_4-HeadE-Column-Header p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+.TableStyle-BasicTbl_4-HeadF-Column-Header
+{
+	padding-left: 5.4pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	color: #ffffff;
+	font-weight: bold;
+	text-align: left;
+	background-color: #c0c0c0;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-BasicTbl_4-HeadF-Column-Header p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+.TableStyle-BasicTbl_4-HeadH-Column-Header
+{
+	padding-left: 5.4pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	color: #ffffff;
+	font-weight: bold;
+	text-align: left;
+	background-color: #c0c0c0;
+}
+
+.TableStyle-BasicTbl_4-HeadH-Column-Header p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+.TableStyle-BasicTbl_4-HeadD-Column-Header
+{
+	padding-left: 5.4pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	color: #ffffff;
+	font-weight: bold;
+	text-align: left;
+	background-color: #c0c0c0;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-BasicTbl_4-HeadD-Column-Header p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+.TableStyle-BasicTbl_4-HeadC-Column-Header
+{
+	padding-left: 5.4pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	color: #ffffff;
+	font-weight: bold;
+	text-align: left;
+	background-color: #c0c0c0;
+}
+
+.TableStyle-BasicTbl_4-HeadC-Column-Header p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+.TableStyle-BasicTbl_4-HeadB-Column-Header
+{
+	padding-left: 5.4pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	color: #ffffff;
+	font-weight: bold;
+	text-align: left;
+	background-color: #c0c0c0;
+}
+
+.TableStyle-BasicTbl_4-HeadB-Column-Header p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+.TableStyle-BasicTbl_4-HeadA-Column-Header
+{
+	padding-left: 5.4pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	color: #ffffff;
+	font-weight: bold;
+	text-align: left;
+	background-color: #c0c0c0;
+}
+
+.TableStyle-BasicTbl_4-HeadA-Column-Header p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+.TableStyle-BasicTbl_4-HeadG-Column-Header
+{
+	padding-left: 5.4pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	color: #ffffff;
+	font-weight: bold;
+	text-align: left;
+	background-color: #c0c0c0;
+}
+
+.TableStyle-BasicTbl_4-HeadG-Column-Header p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+.TableStyle-BasicTbl_4-FootI-Column-
+{
+	padding-left: 5.4pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-BasicTbl_4-FootI-Column- p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_4-FootE-Column-
+{
+	padding-left: 5.4pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-BasicTbl_4-FootE-Column- p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_4-FootF-Column-
+{
+	padding-left: 5.4pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-BasicTbl_4-FootF-Column- p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_4-FootH-Column-
+{
+	padding-left: 5.4pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-BasicTbl_4-FootH-Column- p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_4-FootD-Column-
+{
+	padding-left: 5.4pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_4-FootD-Column- p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_4-FootC-Column-
+{
+	padding-left: 5.4pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-BasicTbl_4-FootC-Column- p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_4-FootB-Column-
+{
+	padding-left: 5.4pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-BasicTbl_4-FootB-Column- p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_4-FootA-Column-
+{
+	padding-left: 5.4pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_4-FootA-Column- p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_4-FootG-Column-
+{
+	padding-left: 5.4pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_4-FootG-Column- p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_4-Body-Body
+{
+	page-break-inside: avoid;
+}
+
+.TableStyle-BasicTbl_4-BodyI-Column-Body
+{
+	padding-left: 5.4pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	vertical-align: top;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: none;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-BasicTbl_4-BodyI-Column-Body p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_4-BodyE-Column-Body
+{
+	padding-left: 5.4pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	vertical-align: top;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-BasicTbl_4-BodyE-Column-Body p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_4-BodyF-Column-Body
+{
+	padding-left: 5.4pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	vertical-align: top;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-BasicTbl_4-BodyF-Column-Body p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_4-BodyH-Column-Body
+{
+	padding-left: 5.4pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	vertical-align: top;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: none;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-BasicTbl_4-BodyH-Column-Body p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_4-BodyD-Column-Body
+{
+	padding-left: 5.4pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	vertical-align: top;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_4-BodyD-Column-Body p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_4-BodyC-Column-Body
+{
+	padding-left: 5.4pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	vertical-align: top;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-BasicTbl_4-BodyC-Column-Body p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_4-BodyB-Column-Body
+{
+	padding-left: 5.4pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	vertical-align: top;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-BasicTbl_4-BodyB-Column-Body p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_4-BodyA-Column-Body
+{
+	padding-left: 5.4pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	vertical-align: top;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_4-BodyA-Column-Body p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_4-BodyG-Column-Body
+{
+	padding-left: 5.4pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	vertical-align: top;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: none;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_4-BodyG-Column-Body p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+

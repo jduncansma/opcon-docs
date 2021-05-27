@@ -1,0 +1,837 @@
+/* MadCap Table Style: */
+
+/*<meta Version="9" />*/
+
+mcTableStyle
+{
+	name: BasicTbl_2;
+	margin-left: 0px;
+	margin-right: auto;
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	border-spacing-x: 0;
+	border-spacing-y: 0;
+	border-collapse: collapse;
+	border-left-color: #000000;
+	border-right-color: #000000;
+	border-top-color: #000000;
+	border-bottom-color: #000000;
+	border-top-style: none;
+	border-top-width: 1px;
+	border-bottom-style: none;
+	border-bottom-width: 1px;
+	border-right-style: none;
+	border-right-width: 1px;
+	border-left-style: none;
+	border-left-width: 1px;
+	cell-padding-top: 5.4pt;
+	cell-padding-left: 0pt;
+	cell-padding-right: 5.4pt;
+	cell-padding-bottom: 5.4pt;
+	max-id: 4;
+	orphans: 3;
+}
+
+mcTableColumnStyle
+{
+	separator-style: none;
+	separator-width: 1px;
+	separator-color: #000000;
+	ruler-style: solid;
+	ruler-width: 1px;
+	ruler-color: #000000;
+	name: Column1;
+	id: 0;
+	font-size: 11pt;
+	font-family: 'Century Gothic';
+}
+
+mcTableHeadStyle
+{
+	name: Header1;
+	id: 3;
+	text-align: left;
+}
+
+mcTableBodyStyle
+{
+	span: 4;
+	separator-style: none;
+	separator-width: 1px;
+	separator-color: #000000;
+	ruler-style: none;
+	ruler-width: 1px;
+	ruler-color: #000000;
+	name: Body1;
+	id: 1;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	page-break-inside: avoid;
+}
+
+mcTableBodyStyle
+{
+	span: 0;
+	separator-style: solid;
+	separator-width: 1px;
+	separator-color: #000000;
+	ruler-style: solid;
+	ruler-width: 1px;
+	ruler-color: #000000;
+	name: Body2;
+	id: 2;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+mcTableFootStyle
+{
+	name: Footer1;
+	id: 4;
+}
+
+
+/* Cell Styles: */
+ 
+.TableStyle-BasicTbl_2
+{
+	border-collapse: collapse;
+	border-left-style: none;
+	border-left-color: #000000;
+	border-left-width: 1px;
+	border-right-style: none;
+	border-right-color: #000000;
+	border-right-width: 1px;
+	border-top-style: none;
+	border-top-color: #000000;
+	border-top-width: 1px;
+	border-bottom-style: none;
+	border-bottom-color: #000000;
+	border-bottom-width: 1px;
+	margin-left: 0px;
+	margin-right: auto;
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	orphans: 3;
+	border-spacing: 0px 0px;
+}
+
+.TableStyle-BasicTbl_2-Column-Column1
+{
+	
+}
+
+.TableStyle-BasicTbl_2-Head-Header1
+{
+	
+}
+
+.TableStyle-BasicTbl_2-HeadI-Column1-Header1
+{
+	padding-left: 0pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	text-align: left;
+}
+
+.TableStyle-BasicTbl_2-HeadI-Column1-Header1 p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_2-HeadE-Column1-Header1
+{
+	padding-left: 0pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: none;
+	text-align: left;
+}
+
+.TableStyle-BasicTbl_2-HeadE-Column1-Header1 p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_2-HeadF-Column1-Header1
+{
+	padding-left: 0pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	text-align: left;
+}
+
+.TableStyle-BasicTbl_2-HeadF-Column1-Header1 p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_2-HeadH-Column1-Header1
+{
+	padding-left: 0pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: none;
+	text-align: left;
+}
+
+.TableStyle-BasicTbl_2-HeadH-Column1-Header1 p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_2-HeadD-Column1-Header1
+{
+	padding-left: 0pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	text-align: left;
+}
+
+.TableStyle-BasicTbl_2-HeadD-Column1-Header1 p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_2-HeadC-Column1-Header1
+{
+	padding-left: 0pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	text-align: left;
+}
+
+.TableStyle-BasicTbl_2-HeadC-Column1-Header1 p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_2-HeadB-Column1-Header1
+{
+	padding-left: 0pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: none;
+	text-align: left;
+}
+
+.TableStyle-BasicTbl_2-HeadB-Column1-Header1 p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_2-HeadA-Column1-Header1
+{
+	padding-left: 0pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	text-align: left;
+}
+
+.TableStyle-BasicTbl_2-HeadA-Column1-Header1 p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_2-HeadG-Column1-Header1
+{
+	padding-left: 0pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	text-align: left;
+}
+
+.TableStyle-BasicTbl_2-HeadG-Column1-Header1 p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_2-Foot-Footer1
+{
+	
+}
+
+.TableStyle-BasicTbl_2-FootI-Column1-Footer1
+{
+	padding-left: 0pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-BasicTbl_2-FootI-Column1-Footer1 p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_2-FootE-Column1-Footer1
+{
+	padding-left: 0pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-BasicTbl_2-FootE-Column1-Footer1 p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_2-FootF-Column1-Footer1
+{
+	padding-left: 0pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-BasicTbl_2-FootF-Column1-Footer1 p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_2-FootH-Column1-Footer1
+{
+	padding-left: 0pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-BasicTbl_2-FootH-Column1-Footer1 p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_2-FootD-Column1-Footer1
+{
+	padding-left: 0pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_2-FootD-Column1-Footer1 p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_2-FootC-Column1-Footer1
+{
+	padding-left: 0pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-BasicTbl_2-FootC-Column1-Footer1 p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_2-FootB-Column1-Footer1
+{
+	padding-left: 0pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-BasicTbl_2-FootB-Column1-Footer1 p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_2-FootA-Column1-Footer1
+{
+	padding-left: 0pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_2-FootA-Column1-Footer1 p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_2-FootG-Column1-Footer1
+{
+	padding-left: 0pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_2-FootG-Column1-Footer1 p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_2-Body-Body1
+{
+	page-break-inside: avoid;
+}
+
+.TableStyle-BasicTbl_2-BodyI-Column1-Body1
+{
+	padding-left: 0pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: none;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-BasicTbl_2-BodyI-Column1-Body1 p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_2-BodyE-Column1-Body1
+{
+	padding-left: 0pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: none;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-BasicTbl_2-BodyE-Column1-Body1 p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_2-BodyF-Column1-Body1
+{
+	padding-left: 0pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: none;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-BasicTbl_2-BodyF-Column1-Body1 p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_2-BodyH-Column1-Body1
+{
+	padding-left: 0pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: none;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-BasicTbl_2-BodyH-Column1-Body1 p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_2-BodyD-Column1-Body1
+{
+	padding-left: 0pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: none;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_2-BodyD-Column1-Body1 p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_2-BodyC-Column1-Body1
+{
+	padding-left: 0pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-BasicTbl_2-BodyC-Column1-Body1 p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_2-BodyB-Column1-Body1
+{
+	padding-left: 0pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-BasicTbl_2-BodyB-Column1-Body1 p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_2-BodyA-Column1-Body1
+{
+	padding-left: 0pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_2-BodyA-Column1-Body1 p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_2-BodyG-Column1-Body1
+{
+	padding-left: 0pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: none;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_2-BodyG-Column1-Body1 p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_2-Body-Body2
+{
+	
+}
+
+.TableStyle-BasicTbl_2-BodyI-Column1-Body2
+{
+	padding-left: 0pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-BasicTbl_2-BodyI-Column1-Body2 p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_2-BodyE-Column1-Body2
+{
+	padding-left: 0pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-BasicTbl_2-BodyE-Column1-Body2 p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_2-BodyF-Column1-Body2
+{
+	padding-left: 0pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-BasicTbl_2-BodyF-Column1-Body2 p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_2-BodyH-Column1-Body2
+{
+	padding-left: 0pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-BasicTbl_2-BodyH-Column1-Body2 p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_2-BodyD-Column1-Body2
+{
+	padding-left: 0pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_2-BodyD-Column1-Body2 p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_2-BodyC-Column1-Body2
+{
+	padding-left: 0pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-BasicTbl_2-BodyC-Column1-Body2 p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_2-BodyB-Column1-Body2
+{
+	padding-left: 0pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-BasicTbl_2-BodyB-Column1-Body2 p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_2-BodyA-Column1-Body2
+{
+	padding-left: 0pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_2-BodyA-Column1-Body2 p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_2-BodyG-Column1-Body2
+{
+	padding-left: 0pt;
+	padding-right: 5.4pt;
+	padding-top: 5.4pt;
+	padding-bottom: 5.4pt;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+.TableStyle-BasicTbl_2-BodyG-Column1-Body2 p
+{
+	font-family: 'Century Gothic';
+	font-size: 11pt;
+}
+
+

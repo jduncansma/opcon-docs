@@ -1,8 +1,8 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'OpCon',
+  title: 'SMA Technologies Help',
   tagline: 'OpCon',
-  url: 'http://sma-open-docs.azurewebsites.net',
+  url: 'https://sma-open-docs.azurewebsites.net',
   baseUrl: '/opcon/core/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -22,19 +22,10 @@ module.exports = {
       logo: {
         alt: 'SMA Technologies Help Logo',
         src: 'img/logo.svg',
+        href: 'https://sma-open-docs.azurewebsites.net',
       },
       items: [
-        {
-          type: 'doc',
-          docId: 'intro',
-          position: 'left',
-          label: 'Tutorial',
-        },
-        {
-          href: 'https://github.com/opcon-docs/opcon-docs',
-          label: 'GitHub',
-          position: 'right',
-        },
+        {to: '/', label: 'OpCon', position: 'left'},
       ],
     },
     footer: {

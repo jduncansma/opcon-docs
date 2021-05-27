@@ -1,0 +1,347 @@
+/* MadCap Table Style: */
+
+/*<meta Version="9" />*/
+
+mcTableStyle
+{
+	name: GreenScrnTbl;
+	border-left-style: solid;
+	border-left-width: 2px;
+	border-right-style: solid;
+	border-right-width: 2px;
+	border-top-style: solid;
+	border-top-width: 2px;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-left-color: #008000;
+	border-right-color: #008000;
+	border-top-color: #008000;
+	border-bottom-color: #008000;
+	border-spacing: 1px;
+	max-id: 0;
+}
+
+mcTableBodyStyle
+{
+	span: 1;
+	id: 0;
+	name: Body1;
+	type: Automatic;
+	font-family: 'Times New Roman';
+	font-size: 12pt;
+}
+
+
+/* Cell Styles: */
+ 
+.TableStyle-GreenScrnTbl
+{
+	border-left-style: solid;
+	border-left-color: #008000;
+	border-left-width: 2px;
+	border-right-style: solid;
+	border-right-color: #008000;
+	border-right-width: 2px;
+	border-top-style: solid;
+	border-top-color: #008000;
+	border-top-width: 2px;
+	border-bottom-style: solid;
+	border-bottom-color: #008000;
+	border-bottom-width: 2px;
+	border-spacing: 0px 0px;
+}
+
+.TableStyle-GreenScrnTbl-HeadI--
+{
+	
+}
+
+.TableStyle-GreenScrnTbl-HeadI-- p
+{
+	
+}
+
+.TableStyle-GreenScrnTbl-HeadE--
+{
+	
+}
+
+.TableStyle-GreenScrnTbl-HeadE-- p
+{
+	
+}
+
+.TableStyle-GreenScrnTbl-HeadF--
+{
+	
+}
+
+.TableStyle-GreenScrnTbl-HeadF-- p
+{
+	
+}
+
+.TableStyle-GreenScrnTbl-HeadH--
+{
+	
+}
+
+.TableStyle-GreenScrnTbl-HeadH-- p
+{
+	
+}
+
+.TableStyle-GreenScrnTbl-HeadD--
+{
+	
+}
+
+.TableStyle-GreenScrnTbl-HeadD-- p
+{
+	
+}
+
+.TableStyle-GreenScrnTbl-HeadC--
+{
+	
+}
+
+.TableStyle-GreenScrnTbl-HeadC-- p
+{
+	
+}
+
+.TableStyle-GreenScrnTbl-HeadB--
+{
+	
+}
+
+.TableStyle-GreenScrnTbl-HeadB-- p
+{
+	
+}
+
+.TableStyle-GreenScrnTbl-HeadA--
+{
+	
+}
+
+.TableStyle-GreenScrnTbl-HeadA-- p
+{
+	
+}
+
+.TableStyle-GreenScrnTbl-HeadG--
+{
+	
+}
+
+.TableStyle-GreenScrnTbl-HeadG-- p
+{
+	
+}
+
+.TableStyle-GreenScrnTbl-FootI--
+{
+	
+}
+
+.TableStyle-GreenScrnTbl-FootI-- p
+{
+	
+}
+
+.TableStyle-GreenScrnTbl-FootE--
+{
+	
+}
+
+.TableStyle-GreenScrnTbl-FootE-- p
+{
+	
+}
+
+.TableStyle-GreenScrnTbl-FootF--
+{
+	
+}
+
+.TableStyle-GreenScrnTbl-FootF-- p
+{
+	
+}
+
+.TableStyle-GreenScrnTbl-FootH--
+{
+	
+}
+
+.TableStyle-GreenScrnTbl-FootH-- p
+{
+	
+}
+
+.TableStyle-GreenScrnTbl-FootD--
+{
+	
+}
+
+.TableStyle-GreenScrnTbl-FootD-- p
+{
+	
+}
+
+.TableStyle-GreenScrnTbl-FootC--
+{
+	
+}
+
+.TableStyle-GreenScrnTbl-FootC-- p
+{
+	
+}
+
+.TableStyle-GreenScrnTbl-FootB--
+{
+	
+}
+
+.TableStyle-GreenScrnTbl-FootB-- p
+{
+	
+}
+
+.TableStyle-GreenScrnTbl-FootA--
+{
+	
+}
+
+.TableStyle-GreenScrnTbl-FootA-- p
+{
+	
+}
+
+.TableStyle-GreenScrnTbl-FootG--
+{
+	
+}
+
+.TableStyle-GreenScrnTbl-FootG-- p
+{
+	
+}
+
+.TableStyle-GreenScrnTbl-Body-Body1
+{
+	
+}
+
+.TableStyle-GreenScrnTbl-BodyI--Body1
+{
+	font-family: 'Times New Roman';
+	font-size: 12pt;
+}
+
+.TableStyle-GreenScrnTbl-BodyI--Body1 p
+{
+	font-family: 'Times New Roman';
+	font-size: 12pt;
+}
+
+.TableStyle-GreenScrnTbl-BodyE--Body1
+{
+	font-family: 'Times New Roman';
+	font-size: 12pt;
+}
+
+.TableStyle-GreenScrnTbl-BodyE--Body1 p
+{
+	font-family: 'Times New Roman';
+	font-size: 12pt;
+}
+
+.TableStyle-GreenScrnTbl-BodyF--Body1
+{
+	font-family: 'Times New Roman';
+	font-size: 12pt;
+}
+
+.TableStyle-GreenScrnTbl-BodyF--Body1 p
+{
+	font-family: 'Times New Roman';
+	font-size: 12pt;
+}
+
+.TableStyle-GreenScrnTbl-BodyH--Body1
+{
+	font-family: 'Times New Roman';
+	font-size: 12pt;
+}
+
+.TableStyle-GreenScrnTbl-BodyH--Body1 p
+{
+	font-family: 'Times New Roman';
+	font-size: 12pt;
+}
+
+.TableStyle-GreenScrnTbl-BodyD--Body1
+{
+	font-family: 'Times New Roman';
+	font-size: 12pt;
+}
+
+.TableStyle-GreenScrnTbl-BodyD--Body1 p
+{
+	font-family: 'Times New Roman';
+	font-size: 12pt;
+}
+
+.TableStyle-GreenScrnTbl-BodyC--Body1
+{
+	font-family: 'Times New Roman';
+	font-size: 12pt;
+}
+
+.TableStyle-GreenScrnTbl-BodyC--Body1 p
+{
+	font-family: 'Times New Roman';
+	font-size: 12pt;
+}
+
+.TableStyle-GreenScrnTbl-BodyB--Body1
+{
+	font-family: 'Times New Roman';
+	font-size: 12pt;
+}
+
+.TableStyle-GreenScrnTbl-BodyB--Body1 p
+{
+	font-family: 'Times New Roman';
+	font-size: 12pt;
+}
+
+.TableStyle-GreenScrnTbl-BodyA--Body1
+{
+	font-family: 'Times New Roman';
+	font-size: 12pt;
+}
+
+.TableStyle-GreenScrnTbl-BodyA--Body1 p
+{
+	font-family: 'Times New Roman';
+	font-size: 12pt;
+}
+
+.TableStyle-GreenScrnTbl-BodyG--Body1
+{
+	font-family: 'Times New Roman';
+	font-size: 12pt;
+}
+
+.TableStyle-GreenScrnTbl-BodyG--Body1 p
+{
+	font-family: 'Times New Roman';
+	font-size: 12pt;
+}
+
+

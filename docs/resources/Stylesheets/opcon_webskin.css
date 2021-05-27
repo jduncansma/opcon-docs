@@ -1,0 +1,95 @@
+/*<meta />*/
+
+@font-face {
+    font-family: 'Century Gothic';
+    src: url('../Fonts/GOTHIC.ttf') format ('ttf');
+} 
+
+div#header-title
+{
+	font-family: Century Gothic, Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #ffffff;
+	display: inline-block;
+	position: relative;
+	left: 200px;
+	top: 35px;
+}
+
+div#responsive-header-title
+{
+	font-family: Century Gothic, Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #ffffff;
+	display: inline-block;
+	position: relative;
+	left: 100px;
+	top: 0px;
+}
+
+:focus
+{
+	outline: none !important;
+}
+
+#glossary .GlossaryPageEntry .GlossaryPageDefinition
+{
+	font-weight: normal !important;
+	padding-left: 10px !important;
+	padding-right: 10px !important;
+}
+
+/* #glossary .tree-node a
+{
+	font-family: Arial !important;
+	font-size: 10pt !important;
+}
+
+#glossary .GlossaryPageTerm
+{
+	font-family: Arial !important;
+	font-size: 10pt !important;
+	font-style: bold !important;
+} */
+
+#header .logo
+{
+	/* height: auto !important; */
+	width: 160px !important;
+	background-size: contain !important;
+}
+
+#header .logo > img
+{
+	/* height: auto !important; */
+	width: 160px !important;
+	background-size: contain !important;
+}
+
+#responsiveHeader .logo 
+{
+    	width: 160px !important;
+    	background-size: contain !important;
+	top: 50% !important;
+    	margin-left: 50px !important;
+}
+
+.tree-node.tree-node-selected > div
+{
+	font-weight: normal !important;
+}
+
+.tree-node div
+{
+	font-size: 13px !important;
+}
+
+/* .tree-node.tree-node-collapsed.tree-node-selected > div, .tree-node.tree-node-collapsed.tree-node-selected > div:hover {
+    background: url('Images/closedbook-icon.png') no-repeat 0 3px,#007DB5;
+}
+
+.tree-node.tree-node-expanded.tree-node-selected > div, .tree-node.tree-node-expanded.tree-node-selected > div:hover 
+{
+    background: url('Images/openbook-icon.png') no-repeat 0 3px,#007DB5;
+} */
+
